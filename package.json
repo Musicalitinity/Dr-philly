@@ -1,0 +1,14 @@
+{
+    "name": "Dr. Phil",
+    "version": "1.0.0",
+    "description": "My own Discord bot",
+    "main": "bot.js",
+    "author": "Bipole",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "discord.js": "^11.4.2",
+        "winston": "^3.2.1"
+    }
+}
+
+discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6", "winston": "^2.4.3
